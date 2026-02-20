@@ -57,6 +57,11 @@ img {
 
 #course {
     margin: 20px 0 20px 0;
+    cursor: pointer;
+}
+
+#course:hover {
+    color: hsl(47, 88%, 63%);
 }
 
 #about {
